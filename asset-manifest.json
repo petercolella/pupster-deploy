@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pupster-deploy/static/css/main.97f1e7cb.chunk.css",
+    "main.js": "/pupster-deploy/static/js/main.5b977df6.chunk.js",
+    "main.js.map": "/pupster-deploy/static/js/main.5b977df6.chunk.js.map",
+    "runtime-main.js": "/pupster-deploy/static/js/runtime-main.c41e9f4f.js",
+    "runtime-main.js.map": "/pupster-deploy/static/js/runtime-main.c41e9f4f.js.map",
+    "static/js/2.b392fa8b.chunk.js": "/pupster-deploy/static/js/2.b392fa8b.chunk.js",
+    "static/js/2.b392fa8b.chunk.js.map": "/pupster-deploy/static/js/2.b392fa8b.chunk.js.map",
+    "index.html": "/pupster-deploy/index.html",
+    "precache-manifest.4ca35b40b59761689cd0b1d4ad58b1bd.js": "/pupster-deploy/precache-manifest.4ca35b40b59761689cd0b1d4ad58b1bd.js",
+    "service-worker.js": "/pupster-deploy/service-worker.js",
+    "static/css/main.97f1e7cb.chunk.css.map": "/pupster-deploy/static/css/main.97f1e7cb.chunk.css.map",
+    "static/js/2.b392fa8b.chunk.js.LICENSE.txt": "/pupster-deploy/static/js/2.b392fa8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41e9f4f.js",
+    "static/js/2.b392fa8b.chunk.js",
+    "static/css/main.97f1e7cb.chunk.css",
+    "static/js/main.5b977df6.chunk.js"
+  ]
+}
